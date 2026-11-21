@@ -106,48 +106,26 @@ These results demonstrate the model's classification performance on the validati
 
 ## 🛠️ Technologies Used
 
-| Technology | Purpose |
-|---|---|
-| Python | Core programming language |
-| TensorFlow | Deep learning framework |
-| Keras | Model development and training |
-| EfficientNetB3 | Image classification architecture |
-| OpenCV | Image processing |
-| NumPy | Numerical computations |
-| Matplotlib | Data visualization |
-| Flask | Backend web framework |
-| HTML5 | Web page structure |
-| CSS3 | Styling and design |
-| Bootstrap | Responsive user interface |
+Add JavaScript as a frontend technology in your table:
+
+| Technology     | Purpose                                          |
+| -------------- | ------------------------------------------------ |
+| Python         | Core programming language                        |
+| TensorFlow     | Deep learning framework                          |
+| Keras          | Model development and training                   |
+| EfficientNetB3 | Image classification architecture                |
+| OpenCV         | Image processing                                 |
+| NumPy          | Numerical computations                           |
+| Matplotlib     | Data visualization                               |
+| Flask          | Backend web framework                            |
+| HTML           | Web page structure                               |
+| CSS            | Styling and design                               |
+| JavaScript     | Frontend interactivity and dynamic functionality |
+
+
 
 ---
 
-## 📂 Project Structure
-
-```text
-Plant/
-│
-├── backend/
-│   ├── app.py
-│   ├── best_model.keras
-│   └── requirements.txt
-│
-├── screenshots/
-│   ├── home.png
-│   ├── upload.png
-│   ├── early_blight.png
-│   ├── late_blight.png
-│   └── healthy.png
-│
-├── research_papers/
-│   └── Plant_disease_research_paper.pdf
-│
-└── README.md
-```
-
-*Note: This is the illustrative project structure. Update filenames if your actual repository differs.*
-
----
 
 ## ⚙️ Installation and Setup
 
